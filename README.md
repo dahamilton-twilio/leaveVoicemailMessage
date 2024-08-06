@@ -55,3 +55,14 @@ twilio flex:plugins:start
 ### Update the queue config
 
 The queueConfig.json file in the serverless asset folder maps the queue name the call was made from to the Say or Play that is used. Update this to match your queue naming.
+
+# Next steps
+**Confirm if meets requirements**
+
+**Harden the code to handle errors**
+
+**Improve UI so it disables button as expected whilst operation in progress**
+
+**Confirm reporting requirements**
+
+**Own the code**
