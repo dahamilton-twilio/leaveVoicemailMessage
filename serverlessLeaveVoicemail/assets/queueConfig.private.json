@@ -1,0 +1,8 @@
+{
+  "Campaign A": { "type": "PLAY", "fileName": "rick.wav" },
+  "Campaign B": {
+    "type": "SAY",
+    "text": "Hey. pickup the phone next time I call"
+  },
+  "Default": { "type": "SAY", "text": "You have a new voicemail" }
+}
